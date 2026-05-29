@@ -18,7 +18,7 @@
 This repository may include:
 
 - 📝 Research Paper Assignments  
-- 📊 Literature Reviews  
+- 📊 Literature Reviews      
 - 🔍 Topic Analysis  
 - 📖 Technical Reports  
 - 📌 Case Studies  
